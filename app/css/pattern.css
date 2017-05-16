@@ -40,6 +40,7 @@
     padding: 0;
     overflow: hidden;
     background-color: #aaa;
+    padding: 20px;
 }
 
 .li {
@@ -50,13 +51,12 @@
     display: block;
     color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 22px 16px;
     text-decoration: none;
     font-family: sans-serif;
 }
 
 .li .a:hover {
-    background-color: #777777;
     color:white;
 }
 /*Nav-css end*/
@@ -73,7 +73,12 @@ font-family: sans-serif;
 /*Footer-css end*/
 
 
-/*Temp css
+/*Temp css*/
 
+.ndpl-component__title, .ndpl-component__description {
+    color: #303637;
+}
 
-*/
+.ndpl-page {
+    color: #303637;
+}
