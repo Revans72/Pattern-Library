@@ -56,10 +56,22 @@
 }
 
 .li .a:hover {
-    background-color: #333333;
+    background-color: #777777;
     color:white;
 }
 /*Nav-css end*/
+
+/*Footer-css*/
+.footer{
+padding: 22px;
+color: white;
+background-color: #777777;
+clear: left;
+text-align: center;
+font-family: sans-serif;
+}
+/*Footer-css end*/
+
 
 /*Temp css
 

@@ -104,6 +104,17 @@
                     "title": "Nav-bar"
                 }
             ]
+        },
+        {
+            "name": "footer",
+            "title": "Footer",
+            "components": [
+                {
+                    "group": "footer",
+                    "name": "footer1",
+                    "title": "Footer"
+                }
+            ]
         }
     ],
     "version": "1.9.3"
