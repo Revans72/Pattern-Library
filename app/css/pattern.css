@@ -75,7 +75,7 @@ font-family: sans-serif;
 
 /*Temp css*/
 
-.ndpl-component__title, .ndpl-component__description {
+.ndpl-component__title, .ndpl-component__description, .ndpl-group__description {
     color: #303637;
 }
 

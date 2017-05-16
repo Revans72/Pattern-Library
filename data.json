@@ -115,6 +115,24 @@
                     "title": "Footer"
                 }
             ]
+        },
+        {
+            "name": "branding",
+            "title": "Branding",
+            "components": [
+                {
+                    "group": "branding",
+                    "name": "color-palette",
+                    "title": "Colours",
+                    "type": "colors",
+                    "colors": [
+                    "#777777",
+                    "#111111",
+                    "#aaaaaa",
+                    "#ffffff"
+                    ]
+                }
+            ]
         }
     ],
     "version": "1.9.3"
