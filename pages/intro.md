@@ -8,4 +8,5 @@ This Library includes the following:
 4. Jumbotron (call to action) 
 5. Footer possibly incorporating social media icon links etc.
 6. Color Palettes
+
 Created at Southampton Solent University
