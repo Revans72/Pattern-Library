@@ -1,0 +1,34 @@
+.button{
+  background-color: #777777;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  font-family: sans-serif;
+  padding: 12px 32px;
+}
+
+.button.inverted{
+  background-color: #111111;
+}
+
+.button.rounded{
+  border-radius: 3px;
+}
+
+.button.large{
+    padding: 18px 40px;
+    font-size: 20px;
+}
+
+.button.icon{
+  padding:7px 9px;
+}
+
+.button.icon-circle{
+  border-radius: 50%;
+  padding:7px 9px;
+}
