@@ -12,3 +12,5 @@ This Library includes the following:
 Created at Southampton Solent University
 
 Link to report on Medium: https://medium.com/@robme772/pattern-library-854b32680dd7
+
+By Robert Evans
