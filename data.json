@@ -130,7 +130,7 @@
                         "#111111",
                         "#aaaaaa",
                         "#ffffff",
-                        "#00fffd"
+                        "#cccccc"
                     ]
                 }
             ]
@@ -143,6 +143,17 @@
                     "group": "call-to-action",
                     "name": "jumbotron",
                     "title": "Jumbotron"
+                }
+            ]
+        },
+        {
+            "name": "header",
+            "title": "Header",
+            "components": [
+                {
+                    "group": "header",
+                    "name": "header-element",
+                    "title": "Header Element"
                 }
             ]
         }
