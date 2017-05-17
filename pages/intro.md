@@ -10,3 +10,5 @@ This Library includes the following:
 6. Color Palettes
 
 Created at Southampton Solent University
+
+Link to report on Medium: https://medium.com/@robme772/pattern-library-854b32680dd7

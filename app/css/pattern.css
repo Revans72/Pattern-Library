@@ -7,7 +7,7 @@
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  font-family: sans-serif;
+  font-family: 'Khula', sans-serif;
   padding: 12px 32px;
 }
 
@@ -26,11 +26,13 @@
 
 .button.icon{
   padding:7px 9px;
+  font-family: none;
 }
 
 .button.icon-circle{
   border-radius: 50%;
   padding:7px 9px;
+  font-family: none;
 }
 
 /*Nav-css*/
@@ -53,7 +55,7 @@
     text-align: center;
     padding: 22px 16px;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: 'Khula', sans-serif;
 }
 
 .li .a:hover {
@@ -68,7 +70,7 @@ color: white;
 background-color: #777777;
 clear: left;
 text-align: center;
-font-family: sans-serif;
+font-family: 'Khula', sans-serif;
 }
 /*Footer-css end*/
 
@@ -81,4 +83,13 @@ font-family: sans-serif;
 
 .ndpl-page {
     color: #303637;
+}
+
+.jumbotron{
+  background-color: #aaaaaa;
+  text-align: left;
+  font-family: 'Khula', sans-serif;
+  color: black;
+  padding: 10px;
+  width: 800px;
 }

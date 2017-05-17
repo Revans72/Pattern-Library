@@ -38,7 +38,7 @@
     "font_libraries": {
         "typekit_code": null,
         "typography_web_fonts": null,
-        "google_web_fonts": null
+        "google_web_fonts": "https://fonts.googleapis.com/css?family=Khula"
     },
     "content": {
         "show_first_page_on_load": true,
@@ -126,12 +126,23 @@
                     "title": "Colours",
                     "type": "colors",
                     "colors": [
-                    "#777777",
-                    "#111111",
-                    "#aaaaaa",
-                    "#ffffff",
-                    "#00fffd"
+                        "#777777",
+                        "#111111",
+                        "#aaaaaa",
+                        "#ffffff",
+                        "#00fffd"
                     ]
+                }
+            ]
+        },
+        {
+            "name": "call-to-action",
+            "title": "Call To Action",
+            "components": [
+                {
+                    "group": "call-to-action",
+                    "name": "jumbotron",
+                    "title": "Jumbotron"
                 }
             ]
         }
